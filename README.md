@@ -11,3 +11,9 @@
 >
 >
 > If you find our survey useful for your research, please cite the following paper:
+
+```
+@article{MRAGSurvey,
+    title={A Survey on Multimodal Retrieval-Augmented Generation}
+}
+```
