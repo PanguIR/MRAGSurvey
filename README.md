@@ -14,7 +14,11 @@
 
 ```
 @article{MRAGSurvey,
-    title={A Survey on Multimodal Retrieval-Augmented Generation}
+    title={A Survey on Multimodal Retrieval-Augmented Generation},
+    author={Lang Mei, Siyu Mo, Zhihan Yang, Chong Chen},
+    year={2025},
+    organization={GitHub},
+    url={https://github.com/PanguIR/MRAGSurvey},
 }
 ```
 
