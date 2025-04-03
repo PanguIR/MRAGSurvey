@@ -30,7 +30,17 @@ The architecture of MRAG1.0, often termed "pseudo-MRAG", closely resembles tradi
 
 ![MRAG1.0](Source/MRAG1.0.jpg)
 
+### MRAG2.0
 
+The architecture of MRAG2.0 retains multimodal data through document parsing and indexing, while introducing multimodal retrieval and MLLMs for answer generation, truly entering the multimodal era.
+
+![MRAG2.0](Source/MRAG2.0.jpg)
+
+### MRAG3.0
+
+MRAG3.0 architecture integrates document screenshots during the document parsing and indexing stages to minimize information loss. At the input stage, it incorporates a Multimodal Search Planning module, unifying Visual Question Answering (VQA) and Retrieval-Augmented Generation (RAG) tasks while refining user query precision. At the output stage, the Multimodal Retrieval-Augmented Composition module enhances answer generation by transforming plain text into multimodal formats, thereby enriching information delivery.
+
+![MRAG3.0](Source/MRAG3.0.jpg)
 
 ## Table of Contents
 
