@@ -3,7 +3,7 @@
 
 > A collection of papers and resources related to Large Language Models. 
 >
-> The organization of papers refers to our survey [**"A Survey on Multimodal Retrieval-Augmented Generation"**](https://arxiv.org/abs/). 
+> The organization of papers refers to our survey [**"A Survey on Multimodal Retrieval-Augmented Generation"**](![MRAGSurvey](Source/MRAGSurvey.pdf)). 
 >
 > Please let us know if you find out a mistake or have any suggestions by e-mail:  chenchong55@huawei.com
 >
