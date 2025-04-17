@@ -13,12 +13,11 @@
 > If you find our survey useful for your research, please cite the following paper:
 
 ```
-@article{MRAGSurvey,
-    title={A Survey on Multimodal Retrieval-Augmented Generation},
-    author={Lang Mei, Siyu Mo, Zhihan Yang, Chong Chen},
-    year={2025},
-    organization={GitHub},
-    url={https://github.com/PanguIR/MRAGSurvey},
+@article{mei2025survey,
+  title={A Survey of Multimodal Retrieval-Augmented Generation},
+  author={Mei, Lang and Mo, Siyu and Yang, Zhihan and Chen, Chong},
+  journal={arXiv preprint arXiv:2504.08748},
+  year={2025}
 }
 ```
 
