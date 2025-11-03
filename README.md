@@ -23,6 +23,8 @@
 
 ## Overview of MRAG
 
+![MRAG-overall](Source/MRAG-overall.jpg)
+
 ### MRAG1.0
 
 The architecture of MRAG1.0, often termed "pseudo-MRAG", closely resembles traditional RAG, consisting of three modules: Document Parsing and Indexing, Retrieval, and Generation. While the overall process remains largely unchanged, the key distinction lies in the Document Parsing stage. In this stage, specialized models are employed to convert diverse modal data into modality-specific captions. These captions are then stored alongside textual data for utilization in subsequent stages.
